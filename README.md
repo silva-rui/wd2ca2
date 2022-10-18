@@ -1,2 +1,3 @@
 # wd2ca2
-Exercise CA2: Version Control
+
+A project containing a **java source file** of a class which prints *"Hello World"* to the console
